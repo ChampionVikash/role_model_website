@@ -1,0 +1,17 @@
+#logo,
+#tag,
+#social-links,
+.footer,
+.role{
+    display: none;
+}
+.model,
+.services-container{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    width:100%;
+    color:violet;
+}
+/* a[href]:after{
+    content: "(" attr(href)")";
+} */ 
